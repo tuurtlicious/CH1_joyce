@@ -75,7 +75,7 @@ window.onload = function () {
         exportEnabled: false,
         theme: "dark1", // "light1", "light2", "dark1", "dark2"
         title :{
-            text: "Velocity in km/h"
+            text: "Distance from Earth"
         },
         axisY: {
             includeZero: false
